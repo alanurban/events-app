@@ -1,0 +1,31 @@
+{
+  "events": {
+    "name": "Events",
+    "pastEvents": "Past Events",
+    "upcomingEvents": "Upcoming Events",
+    "pendingEvents": "Pending Events",
+    "favouriteEvents": "Favourite Events",
+    "event": {
+      "image": "event image",
+      "show": "Show",
+      "like": "Like",
+      "dislike": "Dislike"
+    }
+  },
+  "searchEvent": "Search Event...",
+  "localization": "Localization",
+  "search": "Search",
+  "showMore": "Show more",
+  "show": "Show",
+  "startDate": "Start Date",
+  "endDate": "End Date",
+  "categoryEventsSection": {
+    "tab": "categories events tabs"
+  },
+  "emptyData": "Empty Data",
+  "apiErrors": {
+    "requestFailed": "Problem with load Data!"
+  },
+  "loading": "Loading data...",
+  "notFound": "Not Found!"
+}
